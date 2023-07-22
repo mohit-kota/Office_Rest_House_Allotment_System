@@ -44,13 +44,10 @@ We welcome contributions to improve the Railways Resting Rooms Booking System. I
 4. Push the changes to your branch: `git push origin feature/your_feature`.
 5. Submit a pull request to the `main` branch of the main repository.
 
-## License
+![WhatsApp Image 2023-07-21 at 22 58 01](https://github.com/mohit-kota/Office_Rest_House_Allotment_System/assets/96908137/d6c6a09e-5670-4093-945a-aa24617b3872)
+![WhatsApp Image 2023-07-21 at 22 59 15](https://github.com/mohit-kota/Office_Rest_House_Allotment_System/assets/96908137/0e4ba0d1-66f0-4dc7-80bd-1ba5008ad245)
+![WhatsApp Image 2023-07-21 at 23 00 19](https://github.com/mohit-kota/Office_Rest_House_Allotment_System/assets/96908137/34ccae0c-a382-473e-9890-632b0ff9ad48)
+![WhatsApp Image 2023-07-21 at 23 01 38](https://github.com/mohit-kota/Office_Rest_House_Allotment_System/assets/96908137/ed8c6436-c6cf-46b9-b235-8929f488060e)
+![WhatsApp Image 2023-07-21 at 23 02 41](https://github.com/mohit-kota/Office_Rest_House_Allotment_System/assets/96908137/5128e505-4d73-417d-97e4-14137cec094f)
 
-This project is licensed under the MIT License - see the [LICENSE](link_to_license_file) file for details.
 
-## Contact
-
-If you have any questions or need further assistance, please feel free to contact the project maintainers:
-
-- John Doe (john.doe@example.com)
-- Jane Smith (jane.smith@example.com)
