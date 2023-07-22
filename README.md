@@ -1,4 +1,4 @@
-# Railways Resting Rooms Booking System
+# Office_Rest_House_Allotment_System
 
 This project is a 24/7 web application developed using AngularJS, Bootstrap, and PHP (Laravel) to facilitate efficient booking of resting rooms nationwide for railway officials. The application incorporates various features to ensure fair allocation of booking slots and offers a dual-interface system for users and administrators to streamline the room booking and management processes. Additionally, an email verification system has been integrated to enhance security and validate user information.
 
